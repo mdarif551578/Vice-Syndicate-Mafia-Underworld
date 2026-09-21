@@ -1,0 +1,6 @@
+{
+  "name": "Vice Syndicate: Mafia Underworld",
+  "description": "An open-world mafia syndicate action crime game featuring city district turf wars, driveable vehicles, speedboats, rival mafia families, weapon evolution, and syndicate empire building.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
